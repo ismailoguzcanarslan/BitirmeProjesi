@@ -1,0 +1,6 @@
+1. parent directoryden komut satırı açılır.
+2.Aşağıdaki komut çalıştırılır.
+
+tensorboard --logdir=logs/ --host localhost --port 8088
+
+http://localhost:8088/

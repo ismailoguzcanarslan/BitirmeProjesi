@@ -1,0 +1,31 @@
+https://www.youtube.com/watch?v=O62YO0zXioM
+https://github.com/vishwajeetsinghrana8/OpenCV/tree/master/Hand_Gesture
+
+https://www.youtube.com/watch?v=P3dUePye_-k
+https://github.com/amarlearning/Finger-Detection-and-Tracking
+https://github.com/Sadaival/Hand-Gestures
+https://www.youtube.com/watch?v=v-XcmsYlzjA
+
+--Training set
+https://www.youtube.com/watch?v=j-3vuBynnOE
+https://pythonprogramming.net/loading-custom-data-deep-learning-python-tensorflow-keras/
+https://pythonprogramming.net/convolutional-neural-network-deep-learning-python-tensorflow-keras/?completed=/loading-custom-data-deep-learning-python-tensorflow-keras/
+
+--Flower classification
+https://gogul.dev/software/image-classification-python
+
+!!!!!Training Folder Structure
+https://keras.io/api/preprocessing/image/
+
+--Face Prediction
+https://towardsdatascience.com/from-raw-images-to-real-time-predictions-with-deep-learning-ddbbda1be0e4
+
+--Training2 Link
+
+https://towardsdatascience.com/from-raw-images-to-real-time-predictions-with-deep-learning-ddbbda1be0e4
+
+--github link t2
+https://github.com/jonathanoheix/Real-Time-Face-Expression-Recognition,
+
+--face detection
+https://www.pyimagesearch.com/2018/06/18/face-recognition-with-opencv-python-and-deep-learning/
